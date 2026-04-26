@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+train.tsv.gz
+*.model
+venv/
+.env
