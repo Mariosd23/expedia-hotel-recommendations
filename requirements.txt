@@ -1,0 +1,4 @@
+pandas
+gensim
+numpy
+tqdm
